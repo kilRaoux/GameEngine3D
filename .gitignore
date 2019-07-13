@@ -31,4 +31,7 @@
 *.out
 *.app
 
+# directory
 .vs/*
+bin-int/*  
+bin/
